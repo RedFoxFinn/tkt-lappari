@@ -1,7 +1,7 @@
 Kaupasta ostettavaksi:
 
 -kauramaitoa
--juustoa
+-kasvisjuustoa
 -korvatulppia
 -leipää
 -makaronia
