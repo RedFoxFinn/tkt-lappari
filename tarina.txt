@@ -1,4 +1,4 @@
 Tässä on teille tarina, joka piti kirjoittaa Tietojenkäsittelytieteen opiskelijana fuksivuonna.
 
 Kurssi, jolla tämä kirjoitus piti tehdä, oli kaikkien rakastama "Tietokone työvälineenä".
-Tuttujen kesken "Tietokone työvälineenä" tunnettiin myös nimellä "Lapio".
+Tuttujen kesken "Tietokone työvälineenä" tunnetaan myös nimellä "Lapio".
