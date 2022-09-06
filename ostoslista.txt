@@ -1,0 +1,9 @@
+Kaupasta:
+
+-maitoa
+-juustoa
+-korvatulppia
+-leipää
+-makaronia
+-tonnikalaa
+-colaa
